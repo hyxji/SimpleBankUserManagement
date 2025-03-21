@@ -3,10 +3,10 @@
 A **C# .NET WPF application** that allows users to search for bank account details using **last name or index**, retrieving their **name, PIN, account number, balance,** and a **bitmap profile picture**. It features a **multi-tier architecture** with a **business logic layer**, **asynchronous processing**, and a **.NET WCF remoting server**. Precaution, some exception handling is not working and some bugs are present including the loading bar.
 
 ## Features  
-- 🔹 **Search Functionality** – Retrieve user details via last name or index
-- 🔹 **Multi-Tier Architecture** – Separates database, business logic, and UI
-- 🔹 **Asynchronous Processing** – Uses delegates for non-blocking operations
-- 🔹 **Access Logging** – Tracks searches within the business tier
+- **Search Functionality** – Retrieve user details via last name or index
+- **Multi-Tier Architecture** – Separates database, business logic, and UI
+- **Asynchronous Processing** – Uses delegates for non-blocking operations
+- **Access Logging** – Tracks searches within the business tier
 
 ##  Project Structure  
 - **`dbserver`** – Handles remote database communication
