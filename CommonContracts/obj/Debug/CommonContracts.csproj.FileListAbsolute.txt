@@ -1,0 +1,12 @@
+C:\Users\izhar\source\repos\Bank\CommonContracts\bin\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\CommonContracts\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\source\repos\Bank\CommonContracts\obj\Debug\CommonContracts.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\CommonContracts\obj\Debug\CommonContracts.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\CommonContracts\obj\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\CommonContracts\obj\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\bin\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\obj\Debug\CommonContracts.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\obj\Debug\CommonContracts.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\obj\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\CommonContracts\obj\Debug\CommonContracts.pdb

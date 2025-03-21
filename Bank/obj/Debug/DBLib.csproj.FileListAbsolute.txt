@@ -1,0 +1,12 @@
+C:\Users\izhar\source\repos\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\izhar\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\izhar\source\repos\Bank\Bank\obj\Debug\DBLib.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\Bank\obj\Debug\DBLib.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\izhar\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\obj\Debug\DBLib.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\obj\Debug\DBLib.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\Bank\obj\Debug\Bank.pdb

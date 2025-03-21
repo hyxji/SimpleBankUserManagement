@@ -1,0 +1,24 @@
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\DBInterface.dll
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\DBInterface.pdb
+C:\Users\izhar\source\repos\Bank\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\BusinessTier\obj\Debug\Business.CF829E41.Up2Date
+C:\Users\izhar\source\repos\Bank\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\izhar\source\repos\Bank\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\BusinessTier\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\DBInterface.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\bin\Debug\DBInterface.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\obj\Debug\Business.CF829E41.Up2Date
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\BusinessTier\obj\Debug\BusinessTier.pdb

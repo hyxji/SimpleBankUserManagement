@@ -1,0 +1,4 @@
+C:\Users\izhar\source\repos\Bank\DBClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\izhar\source\repos\Bank\DBClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\izhar\source\repos\Bank\DBClient\obj\Debug\net8.0-windows\DBClient_MarkupCompile.cache
+C:\Users\izhar\source\repos\Bank\DBClient\obj\Debug\net8.0-windows\DBClient_MarkupCompile.lref

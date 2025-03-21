@@ -1,0 +1,28 @@
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\DBServer.exe.config
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\DBServer.exe
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\DBServer.pdb
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\Bank.dll
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\DBInterface.dll
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\Bank.pdb
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\DBInterface.pdb
+C:\Users\izhar\source\repos\Bank\DBServer\obj\Debug\DBServer.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\DBServer\obj\Debug\DBServer.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\DBServer\obj\Debug\DBServer.csproj.Up2Date
+C:\Users\izhar\source\repos\Bank\DBServer\obj\Debug\DBServer.exe
+C:\Users\izhar\source\repos\Bank\DBServer\obj\Debug\DBServer.pdb
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\DBServer\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\DBServer.exe.config
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\DBServer.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\DBServer.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\Bank.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\DBInterface.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\Bank.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\bin\Debug\DBInterface.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\obj\Debug\DBServer.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\obj\Debug\DBServer.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\obj\Debug\DBServer.csproj.Up2Date
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\obj\Debug\DBServer.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBServer\obj\Debug\DBServer.pdb

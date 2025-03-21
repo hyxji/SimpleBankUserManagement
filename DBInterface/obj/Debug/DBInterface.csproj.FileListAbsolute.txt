@@ -1,0 +1,18 @@
+C:\Users\izhar\source\repos\Bank\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\izhar\source\repos\Bank\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\izhar\source\repos\Bank\DBInterface\obj\Debug\DBInterface.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\izhar\source\repos\Bank\DBInterface\obj\Debug\DBInterface.pdb
+C:\Users\izhar\source\repos\Bank\DBInterface\bin\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\DBInterface\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\source\repos\Bank\DBInterface\obj\Debug\DBInterf.BD1F0CBA.Up2Date
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\bin\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\obj\Debug\DBInterface.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\obj\Debug\DBInterf.BD1F0CBA.Up2Date
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\DBInterface\obj\Debug\DBInterface.pdb

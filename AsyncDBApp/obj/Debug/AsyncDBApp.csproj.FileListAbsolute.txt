@@ -1,0 +1,46 @@
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.AssemblyReference.cache
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\MainWindow.g.cs
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\App.g.cs
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp_MarkupCompile.cache
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp_MarkupCompile.lref
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.exe.config
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.exe
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.pdb
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\BusinessTier.exe
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\CommonContracts.dll
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\DBInterface.dll
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\BusinessTier.pdb
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\BusinessTier.exe.config
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\bin\Debug\DBInterface.pdb
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\MainWindow.baml
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.g.resources
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.Properties.Resources.resources
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.GenerateResource.cache
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.CoreCompileInputs.cache
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.Up2Date
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.exe
+C:\Users\izhar\source\repos\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.exe.config
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\AsyncDBApp.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\BusinessTier.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\CommonContracts.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\DBInterface.dll
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\BusinessTier.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\BusinessTier.exe.config
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\CommonContracts.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\bin\Debug\DBInterface.pdb
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.AssemblyReference.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\MainWindow.g.cs
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\App.g.cs
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp_MarkupCompile.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp_MarkupCompile.lref
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\MainWindow.baml
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.g.resources
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.Properties.Resources.resources
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.GenerateResource.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.CoreCompileInputs.cache
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.csproj.Up2Date
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.exe
+C:\Users\izhar\Documents\PROJECTS\21486144_BANK (2)\Bank\AsyncDBApp\obj\Debug\AsyncDBApp.pdb

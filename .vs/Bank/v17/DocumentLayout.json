@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|c:\\users\\izhar\\documents\\projects\\21486144_bank (2)\\bank\\asyncdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|solutionrelative:asyncdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\businesstier\\businessserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|solutionrelative:businesstier\\businessserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\businesstier\\businessserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|solutionrelative:businesstier\\businessserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\businesstier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FA418-4403-4582-8B59-DA431F705671}|BusinessTier\\BusinessTier.csproj|solutionrelative:businesstier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\asyncdbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|solutionrelative:asyncdbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\bank\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|solutionrelative:bank\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9324B253-E8F5-4236-89D1-28B1A58D78C5}|DBServer\\DBServer.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbserver\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9324B253-E8F5-4236-89D1-28B1A58D78C5}|DBServer\\DBServer.csproj|solutionrelative:dbserver\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B24D57-2AD2-4A35-944F-309CD4F37864}|CommonContracts\\CommonContracts.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\commoncontracts\\indexoutofrangefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B24D57-2AD2-4A35-944F-309CD4F37864}|CommonContracts\\CommonContracts.csproj|solutionrelative:commoncontracts\\indexoutofrangefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B24D57-2AD2-4A35-944F-309CD4F37864}|CommonContracts\\CommonContracts.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\commoncontracts\\searchfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B24D57-2AD2-4A35-944F-309CD4F37864}|CommonContracts\\CommonContracts.csproj|solutionrelative:commoncontracts\\searchfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7733701-C5F7-46A7-98DA-15C23BE37257}|DBInterface\\DBInterface.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbinterface\\dataserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7733701-C5F7-46A7-98DA-15C23BE37257}|DBInterface\\DBInterface.csproj|solutionrelative:dbinterface\\dataserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\bank\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|solutionrelative:bank\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\bank\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC550B85-DF37-4525-9492-9B7DA7B19B34}|Bank\\DBLib.csproj|solutionrelative:bank\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9324B253-E8F5-4236-89D1-28B1A58D78C5}|DBServer\\DBServer.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9324B253-E8F5-4236-89D1-28B1A58D78C5}|DBServer\\DBServer.csproj|solutionrelative:dbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\asyncdbapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21899F46-853A-439D-898D-62BD68581586}|AsyncDBApp\\AsyncDBApp.csproj|solutionrelative:asyncdbapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izhar\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBApp\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\dbapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A54E-1A26-428C-95B8-BA4A0A4D377D}|DBApp\\DBApp.csproj|solutionrelative:dbapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataServer.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBServer\\DataServer.cs",
+              "RelativeDocumentMoniker": "DBServer\\DataServer.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBServer\\DataServer.cs",
+              "RelativeToolTip": "DBServer\\DataServer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:26:32.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessServer.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\BusinessServer.cs",
+              "RelativeDocumentMoniker": "BusinessTier\\BusinessServer.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\BusinessServer.cs",
+              "RelativeToolTip": "BusinessTier\\BusinessServer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:25:02.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsyncDBApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\MainWindow.xaml",
+              "RelativeToolTip": "AsyncDBApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T10:53:20.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncDBApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AsyncDBApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:53:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexOutOfRangeFault.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\CommonContracts\\IndexOutOfRangeFault.cs",
+              "RelativeDocumentMoniker": "CommonContracts\\IndexOutOfRangeFault.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\CommonContracts\\IndexOutOfRangeFault.cs",
+              "RelativeToolTip": "CommonContracts\\IndexOutOfRangeFault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:56:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataServerInterface.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBInterface\\DataServerInterface.cs",
+              "RelativeDocumentMoniker": "DBInterface\\DataServerInterface.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBInterface\\DataServerInterface.cs",
+              "RelativeToolTip": "DBInterface\\DataServerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:51:52.808Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessServerInterface.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\BusinessServerInterface.cs",
+              "RelativeDocumentMoniker": "BusinessTier\\BusinessServerInterface.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\BusinessServerInterface.cs",
+              "RelativeToolTip": "BusinessTier\\BusinessServerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:21:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\Program.cs",
+              "RelativeDocumentMoniker": "BusinessTier\\Program.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\BusinessTier\\Program.cs",
+              "RelativeToolTip": "BusinessTier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:34:45.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\Database.cs",
+              "RelativeDocumentMoniker": "Bank\\Database.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\Database.cs",
+              "RelativeToolTip": "Bank\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:19:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\DataGenerator.cs",
+              "RelativeDocumentMoniker": "Bank\\DataGenerator.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\DataGenerator.cs",
+              "RelativeToolTip": "Bank\\DataGenerator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:21:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DBApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DBApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:02:33.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DBApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\MainWindow.xaml",
+              "RelativeToolTip": "DBApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T18:02:33.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchFault.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\CommonContracts\\SearchFault.cs",
+              "RelativeDocumentMoniker": "CommonContracts\\SearchFault.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\CommonContracts\\SearchFault.cs",
+              "RelativeToolTip": "CommonContracts\\SearchFault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:12:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataStruct.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\DataStruct.cs",
+              "RelativeDocumentMoniker": "Bank\\DataStruct.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\Bank\\DataStruct.cs",
+              "RelativeToolTip": "Bank\\DataStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:23:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBServer\\Program.cs",
+              "RelativeDocumentMoniker": "DBServer\\Program.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBServer\\Program.cs",
+              "RelativeToolTip": "DBServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:25:18.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\App.xaml",
+              "RelativeDocumentMoniker": "AsyncDBApp\\App.xaml",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\AsyncDBApp\\App.xaml",
+              "RelativeToolTip": "AsyncDBApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T12:24:50.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\izhar\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwG0AAAAhAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:43:26.295Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\App.config",
+              "RelativeDocumentMoniker": "DBApp\\App.config",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\App.config",
+              "RelativeToolTip": "DBApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-06T18:06:37.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "DBApp\\obj\\Debug\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeToolTip": "DBApp\\obj\\Debug\\MainWindow.g.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:11:15.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DBApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\App.xaml.cs",
+              "RelativeToolTip": "DBApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:29:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DBApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\izhar\\Documents\\PROJECTS\\21486144_BANK (2)\\Bank\\DBApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DBApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:06:32.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
